@@ -1,0 +1,22 @@
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-inline: 5px;
+  margin-inline-end: 10px;
+  cursor: pointer;
+}
+.dot:nth-child(1){
+  background-color: yellowgreen;
+}
+.dot:nth-child(2){
+  background-color: blueviolet;
+}
+.dot:nth-child(3){
+  background-color: royalblue;
+}
+.dot:nth-child(4){
+  background-color: rgb(196, 15, 69);
+}
