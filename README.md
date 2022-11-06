@@ -4,10 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-From these you can download any one project as zip file then unzip this and open it in your favorite code editor (as VS Code)
+From these you can download any one project as zip file then unzip this and open it in your favorite code editor (For example VS Code).
+
+Then open any Command Line Interface (for example, a command prompt, PowerShell, etc.) in the same location where the package.json file exists in the project and run the following command:
+
 ### `npm install`
 
-For download all module 
+For download all node module 
 
 ### `npm start`
 
